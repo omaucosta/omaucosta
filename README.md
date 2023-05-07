@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maurício</h1>
 <h3 align="center">A passionate data engineer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omaucosta&label=Profile%20views&color=0e75b6&style=flat" alt="omaucosta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaucosta" alt="omaucosta" /></a> </p>
-
 - 🔭 I’m currently working on [Gupy](https://www.gupy.io/)
-
 - 👯 I’m looking to collaborate on **project of data**
-
 - 📫 How to reach me **mauricios.costta@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/mauricio-costa/](https://www.linkedin.com/in/mauricio-costa/)
 
 <h3 align="left">Connect with me:</h3>
@@ -26,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaucosta&show_icons=true&locale=en" alt="omaucosta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaucosta&" alt="omaucosta" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaucosta" alt="omaucosta" /></a> </p>
