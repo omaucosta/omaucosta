@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/omaucosta/omaucosta/raw/main/assets/header-github.gif" alt="Hi, I'm Maurício">
+  <img src="https://github.com/omaucosta/omaucosta/blob/main/assets/header-github.gif.gif" alt="Hi, I'm Maurício">
 </p>
 
 - 🔭 I’m currently working on [Gupy](https://www.gupy.io/)
