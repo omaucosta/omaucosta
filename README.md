@@ -2,7 +2,7 @@
 <h3 align="center">A data engineer enthusiastic about the field of data and technology</h3>
 
 - 🔭 I’m currently working on [Gupy](https://www.gupy.io/)
-- 👯 I’m looking to collaborate on **project of data**
+- 👯 I’m looking to collaborate on **project of data engineer**
 - 📫 How to reach me **mauricios.costta@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/mauricio-costa/](https://www.linkedin.com/in/mauricio-costa/)
 
