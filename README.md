@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maurício</h1>
-<h3 align="center">A passionate data engineer from Brazil</h3>
+<h3 align="center">A data engineer enthusiastic about the field of data and technology</h3>
 
 - 🔭 I’m currently working on [Gupy](https://www.gupy.io/)
 - 👯 I’m looking to collaborate on **project of data**
