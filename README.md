@@ -1,9 +1,10 @@
 <h2 align="left">Hi, I'm Maurício Costa! </h2>
 
-
+<!--
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omaucosta.omaucosta&"  />
 </div>
+-->
 
 <h4 align="left">About Me</h4>
 
